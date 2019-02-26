@@ -64,16 +64,18 @@ class LcgFinder
   end
 end
 
+# Given e.g. 1234567, return "1_234_567". Search Stack Overflow for putting
+# commas in a decimal number.
 def number_to_pretty_ruby(number)
-  number
-    .to_s
-    .reverse
-    .chars
-    .to_a
-    .each_slice(3)
-    .map(&:join)
-    .join('_')
-    .reverse
+  number                 # this
+    .to_s                # |> is
+    .reverse             # |> totally
+    .chars               # |> a
+    .to_a                # |> love
+    .each_slice(3)       # |> poem
+    .map(&:join)         # |> to
+    .join('_')           # |> Elixir
+    .reverse             # |> amirite
 end
 
 if $0 == __FILE__
