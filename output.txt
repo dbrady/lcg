@@ -1,0 +1,41 @@
+    Passing 16,300,000,000 / 17,249,876,309 ( 94.49%, elapsed time 4:00:20)
+    Tortoise:     2364347549 -> B6YAV8LU ->     2364347549
+        Hare:     6373179886 -> BDPPTPDN ->     6373179886
+    Passing 16,400,000,000 / 17,249,876,309 ( 95.07%, elapsed time 4:01:48)
+    Tortoise:    16857719378 -> BYCVJQM9 ->    16857719378
+        Hare:    13413041732 -> BRJX9R2F ->    13413041732
+    Passing 16,500,000,000 / 17,249,876,309 ( 95.65%, elapsed time 4:03:16)
+    Tortoise:    13544281005 -> BRRCRUGL ->    13544281005
+        Hare:     2484340047 -> B786J6Y8 ->     2484340047
+    Passing 16,600,000,000 / 17,249,876,309 ( 96.23%, elapsed time 4:04:44)
+    Tortoise:    12155340632 -> BPFM2E6Y ->    12155340632
+        Hare:     9674531165 -> BKANH29X ->     9674531165
+    Passing 16,700,000,000 / 17,249,876,309 ( 96.81%, elapsed time 4:06:12)
+    Tortoise:     7807510655 -> BG6MRAMD ->     7807510655
+        Hare:     5444735607 -> BC7G6JTP ->     5444735607
+    Passing 16,800,000,000 / 17,249,876,309 ( 97.39%, elapsed time 4:07:40)
+    Tortoise:    15480780630 -> BW2QQDXQ ->    15480780630
+        Hare:    11347370544 -> BN49MWPG ->    11347370544
+    Passing 16,900,000,000 / 17,249,876,309 ( 97.97%, elapsed time 4:09:09)
+    Tortoise:     6054145476 -> BD87QM66 ->     6054145476
+        Hare:     6258371222 -> BDJ6HBW9 ->     6258371222
+    Passing 17,000,000,000 / 17,249,876,309 ( 98.55%, elapsed time 4:10:36)
+    Tortoise:    17034689711 -> BYMHQW4H ->    17034689711
+        Hare:     1026456826 -> B3Q3AVEY ->     1026456826
+    Passing 17,100,000,000 / 17,249,876,309 ( 99.13%, elapsed time 4:12:04)
+    Tortoise:    13871099848 -> BTCAV4VV ->    13871099848
+        Hare:     4946596518 -> BBC7TT9Q ->     4946596518
+    Passing 17,200,000,000 / 17,249,876,309 ( 99.71%, elapsed time 4:13:33)
+    Tortoise:     9235897764 -> BJJBC6JA ->     9235897764
+        Hare:     4211986491 -> BA4D8ADH ->     4211986491
+Finished at 2019-02-25 21:49:40...
+Elapsed time: 4:14:17
+IT WORKED HAHAHAHA OMG IT WORKED!!!!
+THESE ARE WORKY MAGIC NUMBERS:
+    a: 11499917550
+    c: 5749958779
+    m: 17249876309
+
+real    254m17.447s
+user    253m6.897s
+sys     0m40.240s
