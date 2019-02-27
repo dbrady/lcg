@@ -9,7 +9,25 @@ Random Numbers and how to generate them.
 ## Overview
 This repo contains scratch code, tests, generators, and other random (pun
 intended) administrivia for creating a linear congruential pseudorandom number
-generator. The code for an LCG is essentially a one-liner, but relies on magic
+generator. IT DOES NOT CONTAIN RELEASE-QUALITY CODE. These are my scratchpads to
+get to a proof of concept. There _are_ some nice tidbits in here, but they're
+intermingled with other code. These include, but are not necessarily limited to:
+
+* Code to convert an integer to a request key by going to base-29 and using only
+  the CMM-legal request key characters
+* Code to convert a request key back to its equivalent base-10 integer
+* A script to find the magic coprime numbers needed to make an operational LCG,
+  and in case you were wondering it is very fast. Like under a second for a
+  40-bit integer.
+* A script to run the Tortoise and Hare algorithm on an LCG to see if it cycles
+  prematurely. This turns out to be unnecessary, as the aforementioned method
+  for generating LCGs is backed by a mathematical proof from somebody much, much
+  smarter than me. Didn't stop me from writing it and running it just to make
+  sure.
+* And what else... oh yeah! Yes! There IS a working LinearCongruentialGenerator
+  class in there somewhere.
+
+The code for an LCG is essentially a one-liner, but relies on magic
 numbers which must be determined in advance. The theory isn't exactly intuitive
 but once understood is fairly straight forward, and code is provided here for
 quickly identifying magic numbers for any modulo. They are not guaranteed to be
@@ -66,7 +84,7 @@ rephrasings are in italics:_
   generator._
 * b is a multiple of 4, if m is a multiple of 4. _This is easy to understand but
   the reasoning behind it is 2 full pages of math. The short explanation is that
-  a and c interact with each other in odd/even spacingcs, and if m is divisible
+  a and c interact with each other in odd/even spacings, and if m is divisible
   by 4, the previous 2 rules are 50% likely to have a "bad interaction" between
   them that locks the generator into just the odds or just the evens,
   effectively skipping half of the keyspace._
