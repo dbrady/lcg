@@ -1,0 +1,413 @@
+Starting at 2019-08-07 22:25:45...
+    Passing              0 / 13,492,928,512 (  0.00%, elapsed time 0:00:00)
+    Tortoise:              0 -> B2222222 ->              0
+        Hare:              0 -> B2222222 ->              0
+    Passing    100,000,000 / 13,492,928,512 (  0.74%, elapsed time 0:01:05)
+    Tortoise:    10922830592 -> BTNNMWVL ->    10922830592
+        Hare:     4143339008 -> BCLQWF87 ->     4143339008
+    Passing    200,000,000 / 13,492,928,512 (  1.48%, elapsed time 0:02:11)
+    Tortoise:     4143339008 -> BCLQWF87 ->     4143339008
+        Hare:     8418225152 -> BMH6UC4C ->     8418225152
+    Passing    300,000,000 / 13,492,928,512 (  2.22%, elapsed time 0:03:17)
+    Tortoise:     1129627904 -> B4DMTYWQ ->     1129627904
+        Hare:     7514833408 -> BKLN4APG ->     7514833408
+    Passing    400,000,000 / 13,492,928,512 (  2.96%, elapsed time 0:04:23)
+    Tortoise:     8418225152 -> BMH6UC4C ->     8418225152
+        Hare:     9492633600 -> BPPKTU2L ->     9492633600
+    Passing    500,000,000 / 13,492,928,512 (  3.71%, elapsed time 0:05:31)
+    Tortoise:     6127392512 -> BGQ2TUNV ->     6127392512
+        Hare:     4703383040 -> BDRC3M3Q ->     4703383040
+    Passing    600,000,000 / 13,492,928,512 (  4.45%, elapsed time 0:06:36)
+    Tortoise:     7514833408 -> BKLN4APG ->     7514833408
+        Hare:    11541201920 -> BUXLP7TV ->    11541201920
+    Passing    700,000,000 / 13,492,928,512 (  5.19%, elapsed time 0:07:41)
+    Tortoise:     8389045504 -> BMFGE372 ->     8389045504
+        Hare:    12046293504 -> BVYXG4C2 ->    12046293504
+    Passing    800,000,000 / 13,492,928,512 (  5.93%, elapsed time 0:08:47)
+    Tortoise:     9492633600 -> BPPKTU2L ->     9492633600
+        Hare:     8669655040 -> BMYQVWH7 ->     8669655040
+    Passing    900,000,000 / 13,492,928,512 (  6.67%, elapsed time 0:09:52)
+    Tortoise:    11624399616 -> BV6G37D7 ->    11624399616
+        Hare:     1732412928 -> B6LNJAEC ->     1732412928
+    Passing  1,000,000,000 / 13,492,928,512 (  7.41%, elapsed time 0:10:57)
+    Tortoise:     4703383040 -> BDRC3M3Q ->     4703383040
+        Hare:    10943699968 -> BTPVLLYG ->    10943699968
+    Passing  1,100,000,000 / 13,492,928,512 (  8.15%, elapsed time 0:12:02)
+    Tortoise:    12456810752 -> BWUTCRAC ->    12456810752
+        Hare:     7975350784 -> BLKFCMCL ->     7975350784
+    Passing  1,200,000,000 / 13,492,928,512 (  8.89%, elapsed time 0:13:07)
+    Tortoise:    11541201920 -> BUXLP7TV ->    11541201920
+        Hare:     4893689856 -> BE7DNUDQ ->     4893689856
+    Passing  1,300,000,000 / 13,492,928,512 (  9.63%, elapsed time 0:14:11)
+    Tortoise:     2665443072 -> B8JVHFUG ->     2665443072
+        Hare:     3531546112 -> BBD8KU4V ->     3531546112
+    Passing  1,400,000,000 / 13,492,928,512 ( 10.38%, elapsed time 0:15:17)
+    Tortoise:    12046293504 -> BVYXG4C2 ->    12046293504
+        Hare:    10121982976 -> BR26Q7L2 ->    10121982976
+    Passing  1,500,000,000 / 13,492,928,512 ( 11.12%, elapsed time 0:16:23)
+    Tortoise:     3920708864 -> BC6TPQ7L ->     3920708864
+        Hare:     9177876992 -> BP3BQFR7 ->     9177876992
+    Passing  1,600,000,000 / 13,492,928,512 ( 11.86%, elapsed time 0:17:29)
+    Tortoise:     8669655040 -> BMYQVWH7 ->     8669655040
+        Hare:     6488334336 -> BHH237NC ->     6488334336
+    Passing  1,700,000,000 / 13,492,928,512 ( 12.60%, elapsed time 0:18:35)
+    Tortoise:     2011159296 -> B77V2A8Q ->     2011159296
+        Hare:     8230221312 -> BM48XYBG ->     8230221312
+    Passing  1,800,000,000 / 13,492,928,512 ( 13.34%, elapsed time 0:19:41)
+    Tortoise:     1732412928 -> B6LNJAEC ->     1732412928
+        Hare:     5587012608 -> BFLMNFLL ->     5587012608
+    Passing  1,900,000,000 / 13,492,928,512 ( 14.08%, elapsed time 0:20:47)
+    Tortoise:    11869171968 -> BVMNBHXV ->    11869171968
+        Hare:     7281304064 -> BK6473MQ ->     7281304064
+    Passing  2,000,000,000 / 13,492,928,512 ( 14.82%, elapsed time 0:21:54)
+    Tortoise:    10943699968 -> BTPVLLYG ->    10943699968
+        Hare:      512194560 -> B33RCHEV ->      512194560
+    Passing  2,100,000,000 / 13,492,928,512 ( 15.56%, elapsed time 0:22:59)
+    Tortoise:     5464426240 -> BFDJA6G2 ->     5464426240
+        Hare:     4140240384 -> BCLKVAV2 ->     4140240384
+    Passing  2,200,000,000 / 13,492,928,512 ( 16.30%, elapsed time 0:24:04)
+    Tortoise:     7975350784 -> BLKFCMCL ->     7975350784
+        Hare:      160687104 -> B2DDFX37 ->      160687104
+    Passing  2,300,000,000 / 13,492,928,512 ( 17.05%, elapsed time 0:25:09)
+    Tortoise:     1337154816 -> B4RPGNM7 ->     1337154816
+        Hare:     1758181888 -> B6N7G4XC ->     1758181888
+    Passing  2,400,000,000 / 13,492,928,512 ( 17.79%, elapsed time 0:26:14)
+    Tortoise:     4893689856 -> BE7DNUDQ ->     4893689856
+        Hare:     3504885760 -> BBBN8DKG ->     3504885760
+    Passing  2,500,000,000 / 13,492,928,512 ( 18.53%, elapsed time 0:27:19)
+    Tortoise:     7361377024 -> BKBQFPJC ->     7361377024
+        Hare:     4530546176 -> BDFAV8VL ->     4530546176
+    Passing  2,600,000,000 / 13,492,928,512 ( 19.27%, elapsed time 0:28:23)
+    Tortoise:     3531546112 -> BBD8KU4V ->     3531546112
+        Hare:    12141591552 -> BW8HHBWQ ->    12141591552
+    Passing  2,700,000,000 / 13,492,928,512 ( 20.01%, elapsed time 0:29:27)
+    Tortoise:     7566674176 -> BKPNFT6G ->     7566674176
+        Hare:      830951936 -> B3QBW6NV ->      830951936
+    Passing  2,800,000,000 / 13,492,928,512 ( 20.75%, elapsed time 0:30:32)
+    Tortoise:    10121982976 -> BR26Q7L2 ->    10121982976
+        Hare:     4014237696 -> BCDAVD72 ->     4014237696
+    Passing  2,900,000,000 / 13,492,928,512 ( 21.49%, elapsed time 0:31:36)
+    Tortoise:     8438996736 -> BMJDMJGL ->     8438996736
+        Hare:     3096624640 -> BAFWYGD7 ->     3096624640
+    Passing  3,000,000,000 / 13,492,928,512 ( 22.23%, elapsed time 0:32:41)
+    Tortoise:     9177876992 -> BP3BQFR7 ->     9177876992
+        Hare:     7092933632 -> BJQ6P3AC ->     7092933632
+    Passing  3,100,000,000 / 13,492,928,512 ( 22.97%, elapsed time 0:33:46)
+    Tortoise:    11698779392 -> BVBR3GHQ ->    11698779392
+        Hare:      898181632 -> B3V8BPUG ->      898181632
+    Passing  3,200,000,000 / 13,492,928,512 ( 23.72%, elapsed time 0:34:54)
+    Tortoise:     6488334336 -> BHH237NC ->     6488334336
+        Hare:     7008878592 -> BJKAX27L ->     7008878592
+    Passing  3,300,000,000 / 13,492,928,512 ( 24.46%, elapsed time 0:35:58)
+    Tortoise:     9934424832 -> BQMAL7AV ->     9934424832
+        Hare:     6256989696 -> BGYKNJ8Q ->     6256989696
+    Passing  3,400,000,000 / 13,492,928,512 ( 25.20%, elapsed time 0:37:03)
+    Tortoise:     8230221312 -> BM48XYBG ->     8230221312
+        Hare:     2835622912 -> B8VRDRXV ->     2835622912
+    Passing  3,500,000,000 / 13,492,928,512 ( 25.94%, elapsed time 0:38:08)
+    Tortoise:     7018717440 -> BJKTX8Q2 ->     7018717440
+        Hare:     6164218368 -> BGT7QFG2 ->     6164218368
+    Passing  3,600,000,000 / 13,492,928,512 ( 26.68%, elapsed time 0:39:12)
+    Tortoise:     5587012608 -> BFLMNFLL ->     5587012608
+        Hare:    12478371840 -> BWW3EXM7 ->    12478371840
+    Passing  3,700,000,000 / 13,492,928,512 ( 27.42%, elapsed time 0:40:17)
+    Tortoise:    11264014080 -> BUEHQ7W7 ->    11264014080
+        Hare:     1564782080 -> B6AWRYJC ->     1564782080
+    Passing  3,800,000,000 / 13,492,928,512 ( 28.16%, elapsed time 0:41:21)
+    Tortoise:     7281304064 -> BK6473MQ ->     7281304064
+        Hare:     4540597248 -> BDFUA46G ->     4540597248
+    Passing  3,900,000,000 / 13,492,928,512 ( 28.90%, elapsed time 0:42:27)
+    Tortoise:     3243773184 -> BAQHEMTC ->     3243773184
+        Hare:     1732008448 -> B6LMUTGL ->     1732008448
+    Passing  4,000,000,000 / 13,492,928,512 ( 29.65%, elapsed time 0:43:32)
+    Tortoise:      512194560 -> B33RCHEV ->      512194560
+        Hare:     3395792896 -> BB3CPQHQ ->     3395792896
+    Passing  4,100,000,000 / 13,492,928,512 ( 30.39%, elapsed time 0:44:37)
+    Tortoise:     1644339968 -> B6FKA7FG ->     1644339968
+        Hare:     4874012160 -> BE68NGAV ->     4874012160
+    Passing  4,200,000,000 / 13,492,928,512 ( 31.13%, elapsed time 0:45:45)
+    Tortoise:     4140240384 -> BCLKVAV2 ->     4140240384
+        Hare:     7010425856 -> BJKDGHQ2 ->     7010425856
+    Passing  4,300,000,000 / 13,492,928,512 ( 31.87%, elapsed time 0:46:50)
+    Tortoise:    13187692800 -> BYEBFCQL ->    13187692800
+        Hare:     9305682432 -> BPCPNGW7 ->     9305682432
+    Passing  4,400,000,000 / 13,492,928,512 ( 32.61%, elapsed time 0:47:56)
+    Tortoise:      160687104 -> B2DDFX37 ->      160687104
+        Hare:     4724705280 -> BDTJQWTC ->     4724705280
+    Passing  4,500,000,000 / 13,492,928,512 ( 33.35%, elapsed time 0:49:01)
+    Tortoise:     3481997056 -> BBACXNRQ ->     3481997056
+        Hare:     5069692416 -> BEJL2GFG ->     5069692416
+    Passing  4,600,000,000 / 13,492,928,512 ( 34.09%, elapsed time 0:50:06)
+    Tortoise:     1758181888 -> B6N7G4XC ->     1758181888
+        Hare:     4395791360 -> BD6FMLQL ->     4395791360
+    Passing  4,700,000,000 / 13,492,928,512 ( 34.83%, elapsed time 0:51:12)
+    Tortoise:    12163884288 -> BWARQTJV ->    12163884288
+        Hare:     3833367040 -> BBXQLXRQ ->     3833367040
+    Passing  4,800,000,000 / 13,492,928,512 ( 35.57%, elapsed time 0:52:17)
+    Tortoise:     3504885760 -> BBBN8DKG ->     3504885760
+        Hare:     5293924352 -> BEYLU4JV ->     5293924352
+    Passing  4,900,000,000 / 13,492,928,512 ( 36.32%, elapsed time 0:53:23)
+    Tortoise:     9472162560 -> BPNEJC22 ->     9472162560
+        Hare:     2973103616 -> BA7R2L22 ->     2973103616
+    Passing  5,000,000,000 / 13,492,928,512 ( 37.06%, elapsed time 0:54:29)
+    Tortoise:     4530546176 -> BDFAV8VL ->     4530546176
+        Hare:     1564167168 -> B6AVRY87 ->     1564167168
+    Passing  5,100,000,000 / 13,492,928,512 ( 37.80%, elapsed time 0:55:34)
+    Tortoise:     8911802624 -> BNHTUP87 ->     8911802624
+        Hare:     9137824256 -> BNXXKV4C ->     9137824256
+    Passing  5,200,000,000 / 13,492,928,512 ( 38.54%, elapsed time 0:56:40)
+    Tortoise:    12141591552 -> BW8HHBWQ ->    12141591552
+        Hare:     6615955456 -> BHQFNTPG ->     6615955456
+    Passing  5,300,000,000 / 13,492,928,512 ( 39.28%, elapsed time 0:57:45)
+    Tortoise:     6162048768 -> BGT38L4C ->     6162048768
+        Hare:     3710225920 -> BBPLBF2L ->     3710225920
+    Passing  5,400,000,000 / 13,492,928,512 ( 40.02%, elapsed time 0:58:51)
+    Tortoise:      830951936 -> B3QBW6NV ->      830951936
+        Hare:     7845078016 -> BLBUE83Q ->     7845078016
+    Passing  5,500,000,000 / 13,492,928,512 ( 40.76%, elapsed time 0:59:56)
+    Tortoise:     2521857280 -> B8AJVJPG ->     2521857280
+        Hare:     2443164160 -> B83XUQTV ->     2443164160
+    Passing  5,600,000,000 / 13,492,928,512 ( 41.50%, elapsed time 1:01:01)
+    Tortoise:     4014237696 -> BCDAVD72 ->     4014237696
+        Hare:     3965423616 -> BCAFGNC2 ->     3965423616
+    Passing  5,700,000,000 / 13,492,928,512 ( 42.24%, elapsed time 1:02:07)
+    Tortoise:     6876795648 -> BJBL362L ->     6876795648
+        Hare:    10732365312 -> BTBLRHH7 ->    10732365312
+    Passing  5,800,000,000 / 13,492,928,512 ( 42.99%, elapsed time 1:03:12)
+    Tortoise:     3096624640 -> BAFWYGD7 ->     3096624640
+        Hare:     7369260032 -> BKC8ATEC ->     7369260032
+    Passing  5,900,000,000 / 13,492,928,512 ( 43.73%, elapsed time 1:04:18)
+    Tortoise:     4622035200 -> BDLKPW3Q ->     4622035200
+        Hare:    13309874688 -> BYME87YG ->    13309874688
+    Passing  6,000,000,000 / 13,492,928,512 ( 44.47%, elapsed time 1:05:23)
+    Tortoise:     7092933632 -> BJQ6P3AC ->     7092933632
+        Hare:     1878239232 -> B6W6R8CL ->     1878239232
+    Passing  6,100,000,000 / 13,492,928,512 ( 45.21%, elapsed time 1:06:29)
+    Tortoise:     3412426496 -> BB4BRGTV ->     3412426496
+        Hare:     2213363200 -> B7LLYFDQ ->     2213363200
+    Passing  6,200,000,000 / 13,492,928,512 ( 45.95%, elapsed time 1:07:34)
+    Tortoise:      898181632 -> B3V8BPUG ->      898181632
+        Hare:     8162464768 -> BLXBQF4V ->     8162464768
+    Passing  6,300,000,000 / 13,492,928,512 ( 46.69%, elapsed time 1:08:40)
+    Tortoise:     9245005056 -> BP87XEC2 ->     9245005056
+        Hare:     6407629312 -> BHCCQQL2 ->     6407629312
+    Passing  6,400,000,000 / 13,492,928,512 ( 47.43%, elapsed time 1:09:45)
+    Tortoise:     7008878592 -> BJKAX27L ->     7008878592
+        Hare:     4317102080 -> BCXULYR7 ->     4317102080
+    Passing  6,500,000,000 / 13,492,928,512 ( 48.17%, elapsed time 1:10:51)
+    Tortoise:     2266131200 -> B7PNU8H7 ->     2266131200
+        Hare:     5477062144 -> BFEARQNC ->     5477062144
+    Passing  6,600,000,000 / 13,492,928,512 ( 48.91%, elapsed time 1:11:56)
+    Tortoise:     6256989696 -> BGYKNJ8Q ->     6256989696
+        Hare:     2296081408 -> B7RFKKBG ->     2296081408
+    Passing  6,700,000,000 / 13,492,928,512 ( 49.66%, elapsed time 1:13:02)
+    Tortoise:     8681324800 -> BN2FVJEC ->     8681324800
+        Hare:     1102758400 -> B4C44YLL ->     1102758400
+    Passing  6,800,000,000 / 13,492,928,512 ( 50.40%, elapsed time 1:14:08)
+    Tortoise:     2835622912 -> B8VRDRXV ->     2835622912
+        Hare:      706516992 -> B3H3GMMQ ->      706516992
+    Passing  6,900,000,000 / 13,492,928,512 ( 51.14%, elapsed time 1:15:13)
+    Tortoise:      836785920 -> B3QMEVYG ->      836785920
+        Hare:     7306702336 -> BK7KH3EV ->     7306702336
+    Passing  7,000,000,000 / 13,492,928,512 ( 51.88%, elapsed time 1:16:19)
+    Tortoise:     6164218368 -> BGT7QFG2 ->     6164218368
+        Hare:     6719964160 -> BHXGVTV2 ->     6719964160
+    Passing  7,100,000,000 / 13,492,928,512 ( 52.62%, elapsed time 1:17:24)
+    Tortoise:     5202160896 -> BETBJWCL ->     5202160896
+        Hare:     3796916736 -> BBVMCJ37 ->     3796916736
+    Passing  7,200,000,000 / 13,492,928,512 ( 53.36%, elapsed time 1:18:30)
+    Tortoise:    12478371840 -> BWW3EXM7 ->    12478371840
+        Hare:     9519280128 -> BPR67NXC ->     9519280128
+    Passing  7,300,000,000 / 13,492,928,512 ( 54.10%, elapsed time 1:19:35)
+    Tortoise:     1901331200 -> B6XHD6DQ ->     1901331200
+        Hare:     4690920960 -> BDQKRWKG ->     4690920960
+    Passing  7,400,000,000 / 13,492,928,512 ( 54.84%, elapsed time 1:20:41)
+    Tortoise:     1564782080 -> B6AWRYJC ->     1564782080
+        Hare:     3586710528 -> BBGFCRVL ->     3586710528
+    Passing  7,500,000,000 / 13,492,928,512 ( 55.58%, elapsed time 1:21:46)
+    Tortoise:     9013713152 -> BNPQN64V ->     9013713152
+        Hare:     3599905280 -> BBH7RUWQ ->     3599905280
+    Passing  7,600,000,000 / 13,492,928,512 ( 56.33%, elapsed time 1:22:52)
+    Tortoise:     4540597248 -> BDFUA46G ->     4540597248
+        Hare:    11716610048 -> BVCT3PNV ->    11716610048
+    Passing  7,700,000,000 / 13,492,928,512 ( 57.07%, elapsed time 1:23:58)
+    Tortoise:     2757488384 -> B8QAAGL2 ->     2757488384
+        Hare:     1322671616 -> B4QUVW72 ->     1322671616
+    Passing  7,800,000,000 / 13,492,928,512 ( 57.81%, elapsed time 1:25:03)
+    Tortoise:     1732008448 -> B6LMUTGL ->     1732008448
+        Hare:     3664491520 -> BBLWV2D7 ->     3664491520
+    Passing  7,900,000,000 / 13,492,928,512 ( 58.55%, elapsed time 1:26:09)
+    Tortoise:    12805539072 -> BXL3NPR7 ->    12805539072
+        Hare:    12061035008 -> BW2TFMAC ->    12061035008
+    Passing  8,000,000,000 / 13,492,928,512 ( 59.29%, elapsed time 1:27:15)
+    Tortoise:     3395792896 -> BB3CPQHQ ->     3395792896
+        Hare:    11131953152 -> BU4TVBUG ->    11131953152
+    Passing  8,100,000,000 / 13,492,928,512 ( 60.03%, elapsed time 1:28:20)
+    Tortoise:     3366722304 -> BAYMFGNC ->     3366722304
+        Hare:    11533022720 -> BUX6EL7L ->    11533022720
+    Passing  8,200,000,000 / 13,492,928,512 ( 60.77%, elapsed time 1:29:26)
+    Tortoise:     4874012160 -> BE68NGAV ->     4874012160
+        Hare:    11168893952 -> BU7XY48Q ->    11168893952
+    Passing  8,300,000,000 / 13,492,928,512 ( 61.51%, elapsed time 1:30:31)
+    Tortoise:      719614208 -> B3HTRBBG ->      719614208
+        Hare:     6247064064 -> BGXYJDXV ->     6247064064
+    Passing  8,400,000,000 / 13,492,928,512 ( 62.25%, elapsed time 1:31:37)
+    Tortoise:     7010425856 -> BJKDGHQ2 ->     7010425856
+        Hare:      128923648 -> B2BHQYG2 ->      128923648
+    Passing  8,500,000,000 / 13,492,928,512 ( 63.00%, elapsed time 1:32:43)
+    Tortoise:    10366715648 -> BRJDVPLL ->    10366715648
+        Hare:    11905437184 -> BVPRBJM7 ->    11905437184
+    Passing  8,600,000,000 / 13,492,928,512 ( 63.74%, elapsed time 1:33:49)
+    Tortoise:     9305682432 -> BPCPNGW7 ->     9305682432
+        Hare:     5667447808 -> BFRCJKJC ->     5667447808
+    Passing  8,700,000,000 / 13,492,928,512 ( 64.48%, elapsed time 1:34:58)
+    Tortoise:     9088179456 -> BNV3TDMQ ->     9088179456
+        Hare:    12256737792 -> BWG7TN6G ->    12256737792
+    Passing  8,800,000,000 / 13,492,928,512 ( 65.22%, elapsed time 1:36:03)
+    Tortoise:     4724705280 -> BDTJQWTC ->     4724705280
+        Hare:      158765056 -> B2DACEGL ->      158765056
+    Passing  8,900,000,000 / 13,492,928,512 ( 65.96%, elapsed time 1:37:09)
+    Tortoise:      329691904 -> B2P7EREV ->      329691904
+        Hare:    10195920384 -> BR7G2CHQ ->    10195920384
+    Passing  9,000,000,000 / 13,492,928,512 ( 66.70%, elapsed time 1:38:15)
+    Tortoise:     5069692416 -> BEJL2GFG ->     5069692416
+        Hare:     2738797568 -> B8P6U2AV ->     2738797568
+    Passing  9,100,000,000 / 13,492,928,512 ( 67.44%, elapsed time 1:39:21)
+    Tortoise:    13415713024 -> BYUJEJV2 ->    13415713024
+        Hare:    13051892224 -> BY4EH3Q2 ->    13051892224
+    Passing  9,200,000,000 / 13,492,928,512 ( 68.18%, elapsed time 1:40:26)
+    Tortoise:     4395791360 -> BD6FMLQL ->     4395791360
+        Hare:     9519507456 -> BPR6K2W7 ->     9519507456
+    Passing  9,300,000,000 / 13,492,928,512 ( 68.92%, elapsed time 1:41:32)
+    Tortoise:     8036851456 -> BLNYEA37 ->     8036851456
+        Hare:     9889496576 -> BQJMHHTC ->     9889496576
+    Passing  9,400,000,000 / 13,492,928,512 ( 69.67%, elapsed time 1:42:39)
+    Tortoise:     3833367040 -> BBXQLXRQ ->     3833367040
+        Hare:    12195763200 -> BWCMM2FG ->    12195763200
+    Passing  9,500,000,000 / 13,492,928,512 ( 70.41%, elapsed time 1:43:45)
+    Tortoise:     9769219328 -> BQBMTEXC ->     9769219328
+        Hare:    12145650176 -> BW8Q47QL ->    12145650176
+    Passing  9,600,000,000 / 13,492,928,512 ( 71.15%, elapsed time 1:44:50)
+    Tortoise:     5293924352 -> BEYLU4JV ->     5293924352
+        Hare:      956350464 -> B3YKWJRQ ->      956350464
+    Passing  9,700,000,000 / 13,492,928,512 ( 71.89%, elapsed time 1:45:56)
+    Tortoise:     6300830464 -> BH44YMKG ->     6300830464
+        Hare:    13032543744 -> BY3AYNJV ->    13032543744
+    Passing  9,800,000,000 / 13,492,928,512 ( 72.63%, elapsed time 1:47:02)
+    Tortoise:     2973103616 -> BA7R2L22 ->     2973103616
+        Hare:     9525963776 -> BPRJ3722 ->     9525963776
+    Passing  9,900,000,000 / 13,492,928,512 ( 73.37%, elapsed time 1:48:07)
+    Tortoise:    11080458496 -> BTYU4HVL ->    11080458496
+        Hare:     4492313088 -> BDD2NK87 ->     4492313088
+    Passing 10,000,000,000 / 13,492,928,512 ( 74.11%, elapsed time 1:49:13)
+    Tortoise:     1564167168 -> B6AVRY87 ->     1564167168
+        Hare:     3799373824 -> BBVRCG4C ->     3799373824
+    Passing 10,100,000,000 / 13,492,928,512 ( 74.85%, elapsed time 1:50:19)
+    Tortoise:    12965017344 -> BXWD6KWQ ->    12965017344
+        Hare:     1586589184 -> B6C8BEPG ->     1586589184
+    Passing 10,200,000,000 / 13,492,928,512 ( 75.60%, elapsed time 1:51:25)
+    Tortoise:     9137824256 -> BNXXKV4C ->     9137824256
+        Hare:     9217819648 -> BP6LPY2L ->     9217819648
+    Passing 10,300,000,000 / 13,492,928,512 ( 76.34%, elapsed time 1:52:30)
+    Tortoise:     2694024448 -> B8LJYFNV ->     2694024448
+        Hare:    10711407104 -> BTAENR3Q ->    10711407104
+    Passing 10,400,000,000 / 13,492,928,512 ( 77.08%, elapsed time 1:53:36)
+    Tortoise:     6615955456 -> BHQFNTPG ->     6615955456
+        Hare:     8490250240 -> BMMD2CTV ->     8490250240
+    Passing 10,500,000,000 / 13,492,928,512 ( 77.82%, elapsed time 1:54:42)
+    Tortoise:    10654065408 -> BT63EM72 ->    10654065408
+        Hare:    12957238784 -> BXVVHAC2 ->    12957238784
+    Passing 10,600,000,000 / 13,492,928,512 ( 78.56%, elapsed time 1:55:48)
+    Tortoise:     3710225920 -> BBPLBF2L ->     3710225920
+        Hare:     4809464832 -> BDYGN3H7 ->     4809464832
+    Passing 10,700,000,000 / 13,492,928,512 ( 79.30%, elapsed time 1:56:54)
+    Tortoise:     9438607616 -> BPLFWQD7 ->     9438607616
+        Hare:     6948057600 -> BJFPYEEC ->     6948057600
+    Passing 10,800,000,000 / 13,492,928,512 ( 80.04%, elapsed time 1:58:00)
+    Tortoise:     7845078016 -> BLBUE83Q ->     7845078016
+        Hare:    11545561088 -> BUXURQYG ->    11545561088
+    Passing 10,900,000,000 / 13,492,928,512 ( 80.78%, elapsed time 1:59:05)
+    Tortoise:     6961008384 -> BJGH3DAC ->     6961008384
+        Hare:     7071129088 -> BJNV8RCL ->     7071129088
+    Passing 11,000,000,000 / 13,492,928,512 ( 81.52%, elapsed time 2:00:11)
+    Tortoise:     2443164160 -> B83XUQTV ->     2443164160
+        Hare:    12750599168 -> BXGVBYDQ ->    12750599168
+    Passing 11,100,000,000 / 13,492,928,512 ( 82.27%, elapsed time 2:01:17)
+    Tortoise:     8217994496 -> BM3J3YUG ->     8217994496
+        Hare:      952650240 -> B3YDVY4V ->      952650240
+    Passing 11,200,000,000 / 13,492,928,512 ( 83.01%, elapsed time 2:02:23)
+    Tortoise:     3965423616 -> BCAFGNC2 ->     3965423616
+        Hare:     6273032192 -> BH2HRCL2 ->     6273032192
+    Passing 11,300,000,000 / 13,492,928,512 ( 83.75%, elapsed time 2:03:29)
+    Tortoise:     9546316544 -> BPTP7C7L ->     9546316544
+        Hare:     4963644928 -> BECFHKR7 ->     4963644928
+    Passing 11,400,000,000 / 13,492,928,512 ( 84.49%, elapsed time 2:04:35)
+    Tortoise:    10732365312 -> BTBLRHH7 ->    10732365312
+        Hare:    11900668928 -> BVPHJCNC ->    11900668928
+    Passing 11,500,000,000 / 13,492,928,512 ( 85.23%, elapsed time 2:05:40)
+    Tortoise:      314282240 -> B2NBCT8Q ->      314282240
+        Hare:     5724381696 -> BFVM76BG ->     5724381696
+    Passing 11,600,000,000 / 13,492,928,512 ( 85.97%, elapsed time 2:06:46)
+    Tortoise:     7369260032 -> BKC8ATEC ->     7369260032
+        Hare:     7908505600 -> BLFJKKLL ->     7908505600
+    Passing 11,700,000,000 / 13,492,928,512 ( 86.71%, elapsed time 2:07:52)
+    Tortoise:      961586944 -> B3YVG3XV ->      961586944
+        Hare:     7349292544 -> BKB2R8MQ ->     7349292544
+    Passing 11,800,000,000 / 13,492,928,512 ( 87.45%, elapsed time 2:08:58)
+    Tortoise:    13309874688 -> BYME87YG ->    13309874688
+        Hare:     2260476928 -> B7PDMMEV ->     2260476928
+    Passing 11,900,000,000 / 13,492,928,512 ( 88.19%, elapsed time 2:10:04)
+    Tortoise:     4385717504 -> BD4UAPG2 ->     4385717504
+        Hare:    12879444480 -> BXQDWEV2 ->    12879444480
+    Passing 12,000,000,000 / 13,492,928,512 ( 88.94%, elapsed time 2:11:10)
+    Tortoise:     1878239232 -> B6W6R8CL ->     1878239232
+        Hare:    12940464128 -> BXUW8437 ->    12940464128
+    Passing 12,100,000,000 / 13,492,928,512 ( 89.68%, elapsed time 2:12:15)
+    Tortoise:    11503489792 -> BUVFDAM7 ->    11503489792
+        Hare:    11222328832 -> BUC3WAXC ->    11222328832
+    Passing 12,200,000,000 / 13,492,928,512 ( 90.42%, elapsed time 2:13:21)
+    Tortoise:     2213363200 -> B7LLYFDQ ->     2213363200
+        Hare:     1746467840 -> B6MHEHKG ->     1746467840
+    Passing 12,300,000,000 / 13,492,928,512 ( 91.16%, elapsed time 2:14:27)
+    Tortoise:     1000139008 -> B4467BJC ->     1000139008
+        Hare:      439947776 -> B2WKRDVL ->      439947776
+    Passing 12,400,000,000 / 13,492,928,512 ( 91.90%, elapsed time 2:15:33)
+    Tortoise:     8162464768 -> BLXBQF4V ->     8162464768
+        Hare:     8275781632 -> BM7V4FWQ ->     8275781632
+    Passing 12,500,000,000 / 13,492,928,512 ( 92.64%, elapsed time 2:16:39)
+    Tortoise:    10601594624 -> BT222E6G ->    10601594624
+        Hare:    10761534976 -> BTDCABNV ->    10761534976
+    Passing 12,600,000,000 / 13,492,928,512 ( 93.38%, elapsed time 2:17:45)
+    Tortoise:     6407629312 -> BHCCQQL2 ->     6407629312
+        Hare:     2210862080 -> B7LGWH72 ->     2210862080
+    Passing 12,700,000,000 / 13,492,928,512 ( 94.12%, elapsed time 2:18:51)
+    Tortoise:     7967216896 -> BLJX44GL ->     7967216896
+        Hare:     9739676160 -> BQ8WQLD7 ->     9739676160
+    Passing 12,800,000,000 / 13,492,928,512 ( 94.86%, elapsed time 2:19:57)
+    Tortoise:     4317102080 -> BCXULYR7 ->     4317102080
+        Hare:    10971086848 -> BTRH78AC ->    10971086848
+    Passing 12,900,000,000 / 13,492,928,512 ( 95.61%, elapsed time 2:21:02)
+    Tortoise:    11890125568 -> BVNVE2HQ ->    11890125568
+        Hare:     3742307840 -> BBRGGUUG ->     3742307840
+    Passing 13,000,000,000 / 13,492,928,512 ( 96.35%, elapsed time 2:22:09)
+    Tortoise:     5477062144 -> BFEARQNC ->     5477062144
+        Hare:      361311232 -> B2QYU77L ->      361311232
+    Passing 13,100,000,000 / 13,492,928,512 ( 97.09%, elapsed time 2:23:15)
+    Tortoise:     6973112576 -> BJH7QQAV ->     6973112576
+        Hare:     2312503808 -> B7TEBN8Q ->     2312503808
+    Passing 13,200,000,000 / 13,492,928,512 ( 97.83%, elapsed time 2:24:20)
+    Tortoise:     2296081408 -> B7RFKKBG ->     2296081408
+        Hare:    11310700544 -> BUH8NWXV ->    11310700544
+    Passing 13,300,000,000 / 13,492,928,512 ( 98.57%, elapsed time 2:25:25)
+    Tortoise:     4523841280 -> BDEUXRQ2 ->     4523841280
+        Hare:    11166313984 -> BU7TRKG2 ->    11166313984
+    Passing 13,400,000,000 / 13,492,928,512 ( 99.31%, elapsed time 2:26:30)
+    Tortoise:     1102758400 -> B4C44YLL ->     1102758400
+        Hare:     3346891776 -> BAXH74M7 ->     3346891776
+Finished at 2019-08-08 00:53:16...
+Elapsed time: 2:27:31
+IT WORKED HAHAHAHA OMG IT WORKED!!!!
+THESE ARE WORKY MAGIC NUMBERS:
+    a: 2698585709
+    c: 1927561217
+    m: 13492928512
