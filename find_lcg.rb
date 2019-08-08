@@ -10,6 +10,8 @@
 #     the multiple of all prime factors of m)
 # iii) b is a multiple of 4 if m is a multiple of 4
 
+# 7 in a base-27 modulus (reserving 1 digit for censorship) is 13492928512
+
 require 'prime'
 
 class LcgFinder

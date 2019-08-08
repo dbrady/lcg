@@ -19,7 +19,7 @@ class LinearCongruentialGenerator
   end
 end
 
-KEYSPACE = ("0".."9").to_a + ("A".."Y").to_a - %w(0 1 5 O I S Z)
+KEYSPACE = ("0".."9").to_a + ("A".."Y").to_a - %w(0 1 5 9 O I S Z)
 KEYSPACE_REGEX = /^[#{KEYSPACE*''}]+$/
 BASE = KEYSPACE.size
 PARTITION_LETTER = "B"
@@ -139,9 +139,17 @@ if $0 == __FILE__
   # m = 451_245_278
   # ticker_interval = 10_000_000
 
-  a = 11_499_917_550
-  c =  5_749_958_779
-  m = 17_249_876_309
+  # a = 11_499_917_550
+  # c =  5_749_958_779
+  # m = 17_249_876_309
+
+  # Here's a fun one: Let's do base 28 and reserve the 9 for censorship.
+  # (Every other number maps to a leetspeak letter, and even 2 has to be careful
+  # lest we set up a key like UBIN2MEN or something.
+  a =  2_698_585_709
+  c =  1_927_561_217
+  m = 13_492_928_512
+
   ticker_interval = 100_000_000
 
   # turns out this is REALLY slow

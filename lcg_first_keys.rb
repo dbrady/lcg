@@ -110,7 +110,7 @@ class LinearCongruentialGenerator
   end
 end
 
-KEYSPACE = ("0".."9").to_a + ("A".."Y").to_a - %w(0 1 5 O I S Z)
+KEYSPACE = ("0".."9").to_a + ("A".."Y").to_a - %w(0 1 5 9 O I S Z)
 KEYSPACE_REGEX = /^[#{KEYSPACE*''}]+$/
 BASE = KEYSPACE.size
 PARTITION_LETTER = "B"
@@ -189,9 +189,13 @@ class String
 end
 
 if $0 == __FILE__
-  a =  3_449_975_286
-  c =  2_464_268_077
-  m = 17_249_876_309
+  # a =  3_449_975_286
+  # c =  2_464_268_077
+  # m = 17_249_876_309
+  # base 28, no 9 (for censorship)
+  a =  2_698_585_709
+  c =  1_927_561_217
+  m = 13_492_928_512
   # a = 11_499_917_550
   # c =  5_749_958_779
   # m = 17_249_876_309
